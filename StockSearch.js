@@ -21,7 +21,7 @@ const readline = require('readline').createInterface({
   output: process.stdout
 });
 
-const apiKey = 'bd4AaEVBAzq0QKuV4AM9e5DTt6_2QcOb'; // Personal api key.
+const apiKey = ''; // Add your own personal api key.
 let tickerList = []; // Only used for testing purposes
 
 function displayTickerTable(tickerList, tickerProfile) { // Prints ticker table to screen.
