@@ -2,6 +2,8 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/7b3c1611-c613-4138-9164-edbc392d06f9/US+Stock+Report+Nodejs.png"/>
 
+Check out the [demo video](https://youtu.be/CV4IY6x_gTQ).
+
 ### Launch the App
 
 1) Download Node.js and JavaScript.
